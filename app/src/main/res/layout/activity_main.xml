@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.deepak.bangloreguid.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/BanglorePalace"
+        android:padding="16dp"
+        android:background="#AB47BC"
+        android:text="@string/palace"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/FoodStreet"
+        android:padding="16dp"
+        android:background="#9C27B0"
+        android:text="@string/food"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Lalbag"
+        android:padding="16dp"
+        android:background="#8E24AA"
+        android:text="@string/garden"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Zoo"
+        android:padding="16dp"
+        android:background="#7B1FA2"
+        android:text="@string/zoo"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_42853ccbbea410621583e0f520cbffe0f7914189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_66d2d962794c420a0181aa12f42a162080073a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_786cfe4dfda3c4521c48fa16f5f6debae255bcfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_9f9ba53e8efd6cf42078004ee1ed83be5ee5e552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_e23905cb268910e42d928788de3283186f28bef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_1bfb8c2c6cb293fd7b16acfbcf5ad8ef45325f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_1d0a12d72fc8d56ba637c2b485108914cd4e0c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bc52b120bd3abe6537cd28f15c359ea29fcc4ac">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9b641888ae658c3cf3e480e5b76ac5c56a3c3629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1779afa6e980c262f42831ff4b987ab09b3e35f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_904c07f3ded846b1d9c88b8461f8d42900c51443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4a3640ebbf2cc7081fd6ab503b5e87148aa9578">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\instant-run_cfa62bed6eadd7a7fff97b170109ed731a1e242c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_feeba49bc943e41fa3482312e084a5fd3204704f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_19404c63a13fbaef99167ee846a91dbc3106e187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_c6ef3d6bc64f1d48d8bf817c2966a1e141a3ddec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_0ce77a1d7dfb0ac911ad023ab35f51e958f05b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5afc1c099adb48ebc009306289ea98e9cf467b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Deepak\AndroidStudioProjects\Bangloreguid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_64c0e9c5d278faa42fdaa7291995419249f656b0.jar" />
+    </item>
+
+</items>

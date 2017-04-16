@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bangloreguid</string>
+    <string name="palace">BanglorePalace</string>
+    <string name="garden">Lalbag Botanical Garden</string>
+    <string name="food">Vasanthnagar Food street</string>
+    <string name="zoo">Bannergatta Zoological Park</string>
+    <string name="palaceadd">BanglorePalace was built by the wodeyar dynasty who ruled southern parts of India called Mysore
+    Banglore palace is called summer paplace of Tippu Sultan</string>
+    <string name="gardenadd">Lalbag Botanical Garden was created by Kempe Gowda to mark a boundry pillar of Banglore where the
+        Botanical research was built later</string>
+    <string name="foodadd">VasanthNagar food street is one of the destintions for delicious food in Banglore</string>
+    <string name="zooadd">Bannergatta National is one of the elephant and big cats reserve in India </string>
+
+
+</resources>
